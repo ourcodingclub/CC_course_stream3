@@ -1,5 +1,5 @@
 # Mastering Modelling
-### Stream 3 of Coding Club's <a href="https://ourcodingclub.github.io/course_home/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
+### Stream 3 <a href="https://ourcodingclub.github.io/course/mastering-modelling/index.html">Mastering Modelling</a> of Coding Club's <a href="https://ourcodingclub.github.io/course/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
 
 Here you will find all the course materials for the "Mastering Modelling" stream of our Data Science course, e.g. the datasets used in the tutorials, and occasionally some starter scripts. 
 
